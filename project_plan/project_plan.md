@@ -41,7 +41,7 @@ We will follow trunk-based development workflow.
 
 For example:
 
-resource/Task_Estimation
-handbook/code_review_intro
-Reflection/Tadhg
+- resource/Task_Estimation
+- handbook/code_review_intro
+- Reflection/Tadhg
 
