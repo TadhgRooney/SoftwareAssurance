@@ -17,7 +17,7 @@ The goal is to write a handbook for all employees (new and current) can refer to
 1. Create Github repo - Tadhg 
 2. Create project plan - group 
 3. Choose third topic - group
-4. Write Introduction - TBD
+4. Write Introduction - Elsh
 5. Find resources for task estimation in scrum - TBD
 6. Find resources for code reviews - TBD
 7. Find resources for third topic - TBD 
@@ -27,7 +27,7 @@ The goal is to write a handbook for all employees (new and current) can refer to
 11. Reflection - group
 12. Individual contributions table - group
 13. Review - group
-14. Submission - TBD
+14. Submission - Elsh
 
 
 ## 4. Development Workflow
