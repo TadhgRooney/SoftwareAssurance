@@ -10,7 +10,7 @@ The goal is to write a handbook for all employees (new and current) can refer to
 
 1. Task Estimation in Scrum
 2. Code Reviews
-3. TBD by group
+3. Testing
 
 ## 3. Task Breakdown & Assigment
 
@@ -18,9 +18,9 @@ The goal is to write a handbook for all employees (new and current) can refer to
 2. Create project plan - group 
 3. Choose third topic - group
 4. Write Introduction - Elsh
-5. Find resources for task estimation in scrum - TBD
-6. Find resources for code reviews - TBD
-7. Find resources for third topic - TBD 
+5. Find resources for task estimation in scrum - Jake
+6. Find resources for code reviews - Elsh
+7. Find resources for testing - Tadhg 
 8. Write task estimation section - group 
 9. Write code reviews section - group 
 10. Write third topic section - group 
@@ -35,7 +35,7 @@ The goal is to write a handbook for all employees (new and current) can refer to
 We will follow trunk-based development workflow.
 
 - The main branch will have the latest version of the handbook.
-- Each task will br completed on its own branch
+- Each task will be completed on its own branch
 - Once work is completed, a pull request will be made that other team members must review before merge.
 - Each branch name should be named appropriately
 
