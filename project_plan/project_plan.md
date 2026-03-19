@@ -4,7 +4,7 @@
 
 This is the project plan for the software quality handbook.
 
-The goal is to write a handbook for all employees (new and current) can refer to when it comes to software quality.
+The goal is to write a handbook that all employees (new and current) can refer to for software quality.
 
 ## 2. Topics Covered
 
