@@ -1,5 +1,8 @@
 # Testing Resources
 
+## Overview
+These are the resources used for the testing section of the handbook
+
 Strategy (how testing should be structured) - https://martinfowler.com/articles/practical-test-pyramid.html
 
 Real-world problem (tests failing in practice) - https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html
