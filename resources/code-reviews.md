@@ -17,15 +17,4 @@ Code reviews are a procedure in which programmers check each other's code before
 - Code Review Guidelines (GitLab) - https://docs.gitlab.com/development/code_review/
 
 
-## Bad Practices to Avoid
-
-Approving without reviewing
--  Approving pull requests without reviewing the code defeats purpose of code reviews.
-
-Personal criticism
-- All feedback should be focused on the code rather than the developer.
-
-Large pull requests
-- Makes it harder to identify defects.
-
 
