@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- This handbook will outline the software quality practices that developers in our company should follow. It is important that all engineers follow consistent development practices to ensure reliable progress and reduce the likelyhood of defects in production.
+- This handbook will outline the software quality practices that developers in our company should follow. It is important that all engineers follow consistent development practices to ensure reliable progress and reduce the likelihood of defects in production.
 
 This handbook focuses on three key areas that have equal impact on software quality:
 
