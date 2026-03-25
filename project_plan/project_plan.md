@@ -25,14 +25,17 @@ The goal is to write a handbook that all employees (new and current) can refer t
    9. introduces the topic briefly - Tadhg
    10. summarizes the most important guidelines in bullet points / diagrams. - Jake
    11. bad practices/good practices to follow. - Elsh
+   12. Add resources - Jake
 9. Write code reviews section - group 
    10. introduces the topic briefly - Jake
    11. summarizes the most important guidelines in bullet points / diagrams. - Tadhg
    12. bad practices/good practices to follow. - Elsh
+       13. Add resources - Elsh
 10. Write testing section - group 
     11. introduces the topic briefly - Elsh
     12. summarizes the most important guidelines in bullet points / diagrams. - Tadhg
     13. bad practices/good practices to follow. - Jake
+    14. Add resources - Tadhg
 11. Reflection - group
 12. Individual contributions table - group
 13. Review - group
