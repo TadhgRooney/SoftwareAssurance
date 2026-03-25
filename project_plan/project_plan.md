@@ -21,9 +21,21 @@ The goal is to write a handbook that all employees (new and current) can refer t
 5. Find resources for task estimation in scrum - Jake
 6. Find resources for code reviews - Elsh
 7. Find resources for testing - Tadhg 
-8. Write task estimation section - group 
+8. Write task estimation section - group
+   1. introduces the topic briefly - Tadhg
+   2. summarizes the most important guidelines in bullet points / diagrams. - Jake
+   3. bad practices/good practices to follow. - Elsh
+   4. Add resources - Jake
 9. Write code reviews section - group 
-10. Write third topic section - group 
+   1. introduces the topic briefly - Jake
+   2. summarizes the most important guidelines in bullet points / diagrams. - Tadhg
+   3. bad practices/good practices to follow. - Elsh 
+   4. Add resources - Elsh
+10. Write testing section - group 
+    1. introduces the topic briefly - Elsh
+    2. summarizes the most important guidelines in bullet points / diagrams. - Tadhg
+    3. bad practices/good practices to follow. - Jake
+    4. Add resources - Tadhg
 11. Reflection - group
 12. Individual contributions table - group
 13. Review - group
