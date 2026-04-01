@@ -80,6 +80,37 @@ This section showcases how testing should be approached within our team, includi
 
 ## Good & Bad practices
 
+### ✅ Good Practices
+
+- **Follow the test pyramid** — write many unit tests, fewer integration tests, 
+  and minimal end-to-end tests. More low level tests means faster, cheaper feedback.
+- **Test behaviour, not implementation** — tests should verify what the code does, 
+  not how it does it internally. This makes tests resilient to refactoring.
+- **Fix or remove flaky tests immediately** — a test that sometimes passes and 
+  sometimes fails is worse than no test at all. It erodes trust in the entire test suite.
+- **Run tests in your CI/CD pipeline** — every push should trigger automated tests. 
+  Catching failures early is far cheaper than catching them in production.
+- **Test failure scenarios** — intentionally simulate failures like downtime or slow 
+  responses to find weaknesses before they cause real problems. Netflix built an 
+  entire practice around this called Chaos Engineering.
+- **Adapt your strategy to your architecture** — in a microservices system, 
+  integration tests matter more than unit tests. Spotify found that focusing 
+  on how services interact caught more real bugs than testing services in isolation.
+
+### ❌ Bad Practices
+
+- **Over-relying on end-to-end tests** — they are slow, expensive and flaky. 
+  A test suite dominated by end-to-end tests will slow the team down significantly.
+- **Ignoring flaky tests** — at Google, over 16% of tests showed some level of 
+  flakiness. Ignoring them means the team stops trusting test results entirely.
+- **Testing implementation details** — tests that break every time you refactor 
+  are not useful. They add maintenance overhead without adding confidence.
+- **Skipping tests under time pressure** — in a fast moving startup it is tempting 
+  to skip tests to ship faster. This leads to defects in production and slower 
+  progress in the long run.
+- **Applying the same test strategy everywhere** — a strategy that works for a 
+  monolith may actively harm a microservices architecture. Blindly following 
+  the test pyramid without considering your system's structure is a common mistake.
 
 
 ---
