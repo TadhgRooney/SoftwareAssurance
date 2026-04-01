@@ -76,7 +76,7 @@ Introduce Story → Individual Voting → Reveal Cards → Discuss Differences �
 - Differences in estimates should lead to discussion. This helps uncover misunderstandings or hidden work before the sprint begins.
 
 **Using past sprint data to help guide estimates**
-- HHaving previous work can help the team understand what a story point actually represents and improve consistency over time.
+- Having previous work can help the team understand what a story point actually represents and improve consistency over time.
 
 
 ## Bad Practices
