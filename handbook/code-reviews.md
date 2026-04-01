@@ -100,9 +100,30 @@ Create branch -> Write code -> Run tests -> Open PR -> Review -> Fix feedback ->
 
 > Code review is not just about catching bugs —  
 > it is about improving code quality, sharing knowledge, and building better systems as a team.
-## Good & bad practices
 
+## Good Practices
+
+**Ensuring tests are included with new code**
+- Code reviews should help verify that appropriate tests have been added or updated when new functionality is introduced.
+
+**Use coding standards consistently**
+- Following shared coding conventions makes it easier for reviewers to check code quickly and maintain consistency.
+
+**Ask questions when something is unclear**
+- If any team member doesn't understand a piece of code, they should ask the author for clarification. This often highlights areas that could be improved.
+
+## Bad Practices
+
+**Approving without reviewing**
+-  Approving pull requests without reviewing the code defeats purpose of code reviews.
+
+**Personal criticism**
+- All feedback should be focused on the code rather than the developer.
+
+**Large pull requests**
+- Makes it harder to identify defects.
+ 
 ---
 
 ## Resources
-
+[Find further information here!](../resources/code-reviews.md)

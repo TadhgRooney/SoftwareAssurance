@@ -65,3 +65,27 @@ Introduce Story → Individual Voting → Reveal Cards → Discuss Differences �
 ### Key Principle
 > Estimation is not about being right — it is about building a shared understanding 
 > of the work and improving sprint by sprint.
+
+
+## Good Practices
+
+**Break large tasks into smaller pieces**
+- If a task is too large to estimate confidently, it should be split into smaller tasks, which allows tasks to be estimated and tracked during a sprint.
+
+**Encourage discussion during estimation**
+- Differences in estimates should lead to discussion. This helps uncover misunderstandings or hidden work before the sprint begins.
+
+**Using past sprint data to help guide estimates**
+- HHaving previous work can help the team understand what a story point actually represents and improve consistency over time.
+
+
+## Bad Practices
+
+**Estimating tasks that are poorly defined**
+- If some requirements are unclear or throughout, estimates will likely be inaccurate.
+
+**Estimating tasks indivdually without team input**
+- If only one developer estimates work, important complexity or dependencies may be missed.
+
+**Ignoring estimation mistakes**
+- Teams should review past sprints and learn from estimation inaccuracies instead of repeating the same mistakes again.
