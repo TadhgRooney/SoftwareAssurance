@@ -12,7 +12,7 @@ The goal is to write a handbook that all employees (new and current) can refer t
 2. Code Reviews
 3. Testing
 
-## 3. Task Breakdown & Assigment
+## 3. Task Breakdown & Assignment
 
 1. Create Github repo - Tadhg 
 2. Create project plan - group 
