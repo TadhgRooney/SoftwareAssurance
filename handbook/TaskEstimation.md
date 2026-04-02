@@ -89,3 +89,10 @@ Introduce Story → Individual Voting → Reveal Cards → Discuss Differences �
 
 **Ignoring estimation mistakes**
 - Teams should review past sprints and learn from estimation inaccuracies instead of repeating the same mistakes again.
+
+
+---
+
+## Resources
+
+[Find further information here!](../resources/task-estimation.md)
